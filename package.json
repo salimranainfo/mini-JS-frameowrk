@@ -1,0 +1,11 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "author": "Md Salim Rana",
+  "license": "ISC"
+}
